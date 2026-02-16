@@ -1,4 +1,4 @@
-# WAP that asks the uset for a number and prints whether it is positive, negative, or zero
+# WAP that asks the user for a number and prints whether it is positive, negative, or zero
 
 num  = int(input("Enter a number"))
 print(num)
